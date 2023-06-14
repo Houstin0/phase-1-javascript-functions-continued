@@ -4,7 +4,7 @@ function saturdayFun(event = "roller-skate") {
   }
   saturdayFun()
   
-  function mondayWork(event = 'go to the office') {
+  function mondayWork(event = "go to the office") {
     return `This Monday, I will ${event}.`
   }
   mondayWork("This Monday, I will work from home.")
